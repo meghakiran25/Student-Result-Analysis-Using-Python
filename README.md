@@ -1,12 +1,12 @@
 # Student Performance Analysis
 
-**Objective**
+# Objective
 
 The objective of this project is to analyze student performance data to understand the impact of various factors such as gender, parental education, and marital status on students' scores in math, reading, and writing.
 
-**Methodology**
+# Methodology
 
-# Data Loading and Preprocessing:
+**Data Loading and Preprocessing:**
 
 Loaded the dataset from a CSV file using pandas.
 
@@ -16,7 +16,7 @@ Checked for and handled missing values.
 
 Removed unnecessary columns. 
 
-# Exploratory Data Analysis (EDA):
+** Exploratory Data Analysis (EDA):**
 
 Visualized the gender distribution of students using a count plot.
 
@@ -28,7 +28,7 @@ Plotted boxplots to understand the distribution of scores in math, reading, and 
 
 Examined the distribution of students' ethnic groups using a pie chart.
 
-**Insights**
+# Insights
 
 1. Visualized the gender distribution to understand the balance between male and female students.
 
