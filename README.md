@@ -41,7 +41,7 @@ Observed trends showing how different marital statuses impact student performanc
 4. Boxplots for math, reading, and writing scores helped identify the range and outliers in the data.
 
 5. Pie chart of ethnic group distribution provided an overview of the ethnic diversity among students.ective of this project is to analyze student performance data to understand the impact of various factors such as gender, parental education, and marital status on students' scores.
-
-**Conclusion**
+   
+# Conclusion
 
 The analysis highlights significant correlations between parental education and marital status on students' academic performance. Visualizations provided a clear understanding of the data distribution and relationships between various factors. This information can be used by educators and policymakers to develop targeted interventions to improve student outcomes.
