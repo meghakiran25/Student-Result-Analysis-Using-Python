@@ -9,16 +9,23 @@ The objective of this project is to analyze student performance data to understa
 1.Data Loading and Preprocessing:
 
 Loaded the dataset from a CSV file using pandas.
+
 Inspected the dataset for basic statistics and data types.
+
 Checked for and handled missing values.
+
 Removed unnecessary columns. 
 
 2.Exploratory Data Analysis (EDA):
 
 Visualized the gender distribution of students using a count plot.
+
 Analyzed the relationship between parents' education levels and students' scores using grouped bar plots and heatmaps.
+
 Investigated the impact of parents' marital status on students' scores with similar visualizations.
+
 Plotted boxplots to understand the distribution of scores in math, reading, and writing.
+
 Examined the distribution of students' ethnic groups using a pie chart.
 
 **Insights**
