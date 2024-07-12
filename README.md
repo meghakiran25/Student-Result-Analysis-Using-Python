@@ -6,7 +6,7 @@ The objective of this project is to analyze student performance data to understa
 
 **Methodology**
 
-1.Data Loading and Preprocessing:
+# Data Loading and Preprocessing:
 
 Loaded the dataset from a CSV file using pandas.
 
@@ -16,7 +16,7 @@ Checked for and handled missing values.
 
 Removed unnecessary columns. 
 
-2.Exploratory Data Analysis (EDA):
+# Exploratory Data Analysis (EDA):
 
 Visualized the gender distribution of students using a count plot.
 
