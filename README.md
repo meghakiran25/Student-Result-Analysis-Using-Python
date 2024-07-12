@@ -16,7 +16,7 @@ Checked for and handled missing values.
 
 Removed unnecessary columns. 
 
-** Exploratory Data Analysis (EDA):**
+**Exploratory Data Analysis (EDA):**
 
 Visualized the gender distribution of students using a count plot.
 
